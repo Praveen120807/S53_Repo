@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-this is f2 file
-=======
-"This is f2 file"
->>>>>>> a8ed34045a0ff05475a13662f9ce797528f52442
+your code
+code from b2
